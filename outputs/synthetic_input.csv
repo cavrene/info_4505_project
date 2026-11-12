@@ -1,0 +1,13 @@
+item_id,question_id,language,author_type,text
+1,q1,zh,human,我喜欢在周末看书和散步。
+1,q1,zh,ai,我周末喜欢看书和散步。
+2,q1,zh,human,这个城市的天气今天非常好。
+2,q1,zh,ai,今天这个城市的天气非常好。
+3,q2,zh,human,他正在学习如何编写程序。
+3,q2,zh,ai,他在学习怎么编写程序。
+1,q1,tl,human,Mahal ko ang pagbasa ng libro at paglalakad sa Sabado.
+1,q1,tl,ai,Mahal ko ang pagbasa at paglalakad sa Sabado.
+2,q1,tl,human,Ang panahon sa lungsod na ito ay maganda ngayon.
+2,q1,tl,ai,Maganda ang panahon sa lungsod na ito ngayon.
+3,q2,tl,human,Siya ay natututo kung paano magsulat ng programa.
+3,q2,tl,ai,Natututo siya kung paano sumulat ng programa.
